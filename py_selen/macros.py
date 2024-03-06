@@ -11,7 +11,7 @@ class selen():
 
     brwser = callable
     ErrorLog = callable
-    SuccessLog = callable
+    SuccessLog = callable   
 
     def ag_miss(xxpath, nome="none"):
         if nome == "none":
